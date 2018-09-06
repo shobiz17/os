@@ -1,18 +1,14 @@
 [
   {
-	"Product2Id": "01t1D000001XUWMQA4",
-	"UnitPrice": 100.00,
-	"Pricebook2Id": "01s1D000000NQoIQAW",
-	"Id": "01u1D000002qQ4KQAU",
-	"Product2": {
-		"Id": "01t1D000001XUWMQA4",
-		"Name": "Storage Box",
-		"Description": "Storage boxes for confidential documents for destruction service.",
-		"ProductCode": "C-601"
-	},
-	"Pricebook2": {
-		"Id": "01s1D000000NQoIQAW",
-		"Name": "Portal Pricebook"
-	}
-}
+    "id": 1,
+    "Sub1": "Row 1"
+  },
+  {
+    "id": 2,
+    "Sub2": "Row 2"
+  },
+  {
+    "id": 3,
+    "Sub3": "Row 3"
+  }
 ]
