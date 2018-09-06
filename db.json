@@ -1,4 +1,5 @@
-[{
+[
+{
   "Product2Id" : "01t1D000001XUWMQA4",
   "UnitPrice" : 100.00,
   "Pricebook2Id" : "01s1D000000NQoIQAW",
@@ -28,4 +29,5 @@
     "Id" : "01s1D000000NQoIQAW",
     "Name" : "Portal Pricebook"
  }
-}]
+}
+]
