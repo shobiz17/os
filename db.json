@@ -10,6 +10,40 @@
   ],
   "profile": {
     "name": "shobiz"
+  },
+  "ProductDetails":[
+  {
+      "Product2Id" : "123445",
+      "UnitPrice" : 100.00,
+      "Pricebook2Id" : "2333333",
+      "Id" : "23555",
+      "Product2" :{
+        "Id" : "234566",
+        "Name" : "Test Container1",
+        "Description" : "testing service.",
+        "ProductCode" : "C123444"
+      },
+      "Pricebook2" : {
+        "Id" : "56576777",
+        "Name" : "Testing Pricebook"
+      }
+    }, {
+      "Product2Id" : "1566777",
+      "UnitPrice" : 50.00,
+      "Pricebook2Id" : "67778",
+      "Id" : "22332",
+      "Product2" : {
+        "Id" : "12456",
+        "Name" : "Test Container2",
+        "Description" : "Test Container desc",
+        "ProductCode" : "B123444"
+      },
+      "Pricebook2" : {
+        "Id" : "123444",
+        "Name" : "Test Pricebook"
+     }
   }
+] 
+  
 }
 
