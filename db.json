@@ -42,7 +42,38 @@
         "Id" : "123444",
         "Name" : "Test Pricebook"
      }
-  }
+  }, {
+      "Product2Id" : "543215",
+      "UnitPrice" : 120.00,
+      "Pricebook2Id" : "56782",
+      "Id" : "123566",
+      "Product2" : {
+        "Id" : "59898",
+        "Name" : "New Container",
+        "Description" : "This is best Container",
+        "ProductCode" : "CH1267777"
+      },
+      "Pricebook2" : {
+        "Id" : "457888",
+        "Name" : "New Pricebook"
+     }
+  }, {
+      "Product2Id" : "1246789",
+      "UnitPrice" : 500.00,
+      "Pricebook2Id" : "17890",
+      "Id" : "174309",
+      "Product2" : {
+        "Id" : "10290",
+        "Name" : "Best Container",
+        "Description" : "Best Container",
+        "ProductCode" : "JH12356"
+      },
+      "Pricebook2" : {
+        "Id" : "5930393",
+        "Name" : "Best Pricebook"
+     }
+  }  
+
 ] 
   
 }
