@@ -19,13 +19,13 @@
       "Id" : "23555",
       "Product2" :{
         "Id" : "234566",
-        "Name" : "Test Container1",
-        "Description" : "testing service.",
+        "Name" : "Container",
+        "Description" : "Help protect against needlesticks",
         "ProductCode" : "C123444"
       },
       "Pricebook2" : {
         "Id" : "56576777",
-        "Name" : "Testing Pricebook"
+        "Name" : "Container Pricebook"
       }
     }, {
       "Product2Id" : "1566777",
@@ -34,13 +34,13 @@
       "Id" : "22332",
       "Product2" : {
         "Id" : "12456",
-        "Name" : "Test Container2",
-        "Description" : "Test Container desc",
+        "Name" : "New Container",
+        "Description" : "Used for Protecting",
         "ProductCode" : "B123444"
       },
       "Pricebook2" : {
         "Id" : "123444",
-        "Name" : "Test Pricebook"
+        "Name" : "New Container Pricebook"
      }
   }, {
       "Product2Id" : "543215",
@@ -49,13 +49,13 @@
       "Id" : "123566",
       "Product2" : {
         "Id" : "59898",
-        "Name" : "New Container",
-        "Description" : "This is best Container",
+        "Name" : "Recycle Box",
+        "Description" : "Box is used to store the materials",
         "ProductCode" : "CH1267777"
       },
       "Pricebook2" : {
         "Id" : "457888",
-        "Name" : "New Pricebook"
+        "Name" : "Recycle Box Pricebook"
      }
   }, {
       "Product2Id" : "1246789",
@@ -65,12 +65,27 @@
       "Product2" : {
         "Id" : "10290",
         "Name" : "Best Container",
-        "Description" : "Best Container",
-        "ProductCode" : "JH12356"
+        "Description" : "This is Best Container",
+        "ProductCode" : "JW12356"
       },
       "Pricebook2" : {
         "Id" : "5930393",
         "Name" : "Best Pricebook"
+     }
+  }  , {
+      "Product2Id" : "1246789",
+      "UnitPrice" : 200.00,
+      "Pricebook2Id" : "17890",
+      "Id" : "174309",
+      "Product2" : {
+        "Id" : "10290",
+        "Name" : "Best Services",
+        "Description" : "Having the best services on the Products",
+        "ProductCode" : "PRD12678"
+      },
+      "Pricebook2" : {
+        "Id" : "5930393",
+        "Name" : "Best Services Pricebook"
      }
   }  
 
