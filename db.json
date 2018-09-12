@@ -58,7 +58,7 @@
         "Name" : "Recycle Box Pricebook"
      }
   }, {
-      "Product2Id" : "1246789",
+      "Product2Id" : "892145",
       "UnitPrice" : 500.00,
       "Pricebook2Id" : "17890",
       "Id" : "174309",
@@ -87,7 +87,38 @@
         "Id" : "5930393",
         "Name" : "Best Services Pricebook"
      }
+  }  , {
+      "Product2Id" : "34609",
+      "UnitPrice" : 100.00,
+      "Pricebook2Id" : "18740",
+      "Id" : "2176586",
+      "Product2" : {
+        "Id" : "58753",
+        "Name" : "Waste Box",
+        "Description" : "Having the Materials in it",
+        "ProductCode" : "BX10902"
+      },
+      "Pricebook2" : {
+        "Id" : "1902556",
+        "Name" : "Waste Box Pricebook"
+     }
+  }  , {
+      "Product2Id" : "831200",
+      "UnitPrice" : 160.00,
+      "Pricebook2Id" : "091224",
+      "Id" : "862461",
+      "Product2" : {
+        "Id" : "210982",
+        "Name" : "Trash Box",
+        "Description" : "Having the Materials in it",
+        "ProductCode" : "BX1782"
+      },
+      "Pricebook2" : {
+        "Id" : "187926",
+        "Name" : "Trash Box Pricebook"
+     }
   }  
+
 
 ] 
   
