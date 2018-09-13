@@ -19,13 +19,13 @@
       "Id" : "23555",
       "Product2" :{
         "Id" : "234566",
-        "Name" : "Container",
-        "Description" : "Help protect against needlesticks",
-        "ProductCode" : "C123444"
+        "Name" : "Ancillary Products",
+        "Description" : "Ancillary Products",
+        "ProductCode" : "S - 1098"
       },
       "Pricebook2" : {
         "Id" : "56576777",
-        "Name" : "Container Pricebook"
+        "Name" : "Portal Pricebook"
       }
     }, {
       "Product2Id" : "1566777",
@@ -34,13 +34,13 @@
       "Id" : "22332",
       "Product2" : {
         "Id" : "12456",
-        "Name" : "New Container",
-        "Description" : "Used for Protecting",
-        "ProductCode" : "B123444"
+        "Name" : "Biohazard Bags",
+        "Description" : "Protect your team from infectious waste with our easy-to-use red biohazard bags",
+        "ProductCode" : "A-101"
       },
       "Pricebook2" : {
         "Id" : "123444",
-        "Name" : "New Container Pricebook"
+        "Name" : "Portal Pricebook"
      }
   }, {
       "Product2Id" : "543215",
@@ -51,11 +51,11 @@
         "Id" : "59898",
         "Name" : "Recycle Box",
         "Description" : "Box is used to store the materials",
-        "ProductCode" : "CH1267777"
+        "ProductCode" : "B-300"
       },
       "Pricebook2" : {
         "Id" : "457888",
-        "Name" : "Recycle Box Pricebook"
+        "Name" : "Portal Pricebook"
      }
   }, {
       "Product2Id" : "892145",
@@ -64,13 +64,13 @@
       "Id" : "174309",
       "Product2" : {
         "Id" : "10290",
-        "Name" : "Best Container",
-        "Description" : "This is Best Container",
-        "ProductCode" : "JW12356"
+        "Name" : "Reporting and Consulting",
+        "Description" : "This is used for Reporting",
+        "ProductCode" : "ESOL-0016"
       },
       "Pricebook2" : {
         "Id" : "5930393",
-        "Name" : "Best Pricebook"
+        "Name" : "Portal Pricebook"
      }
   }  , {
       "Product2Id" : "1246789",
@@ -79,13 +79,13 @@
       "Id" : "174309",
       "Product2" : {
         "Id" : "10290",
-        "Name" : "Best Services",
-        "Description" : "Having the best services on the Products",
-        "ProductCode" : "PRD12678"
+        "Name" : "Consoles",
+        "Description" : "Containers: Consoles for safe",
+        "ProductCode" : "S - 1090"
       },
       "Pricebook2" : {
         "Id" : "5930393",
-        "Name" : "Best Services Pricebook"
+        "Name" : "Portal Pricebook"
      }
   }  , {
       "Product2Id" : "34609",
@@ -100,7 +100,7 @@
       },
       "Pricebook2" : {
         "Id" : "1902556",
-        "Name" : "Waste Box Pricebook"
+        "Name" : "Portal Pricebook"
      }
   }  , {
       "Product2Id" : "831200",
@@ -114,10 +114,100 @@
         "ProductCode" : "BX1782"
       },
       "Pricebook2" : {
-        "Id" : "187926",
-        "Name" : "Trash Box Pricebook"
+        "Id" : "1879266",
+        "Name" : "Portal Pricebook"
      }
-  }  
+  }, {
+      "Product2Id" : "9032840",
+      "UnitPrice" : 1200.00,
+      "Pricebook2Id" : "128794",
+      "Id" : "823461",
+      "Product2" : {
+        "Id" : "3472278",
+        "Name" : "Shred Disposal Service",
+        "Description" : "Disposal Services",
+        "ProductCode" : "C-1501"
+      },
+      "Pricebook2" : {
+        "Id" : "232356",
+        "Name" : "Portal Pricebook"
+     }
+  }, {
+      "Product2Id" : "9032840",
+      "UnitPrice" : 1200.00,
+      "Pricebook2Id" : "128794",
+      "Id" : "125780",
+      "Product2" : {
+        "Id" : "347278",
+        "Name" : "Transactional SKU",
+        "Description" : "Transactional Base Prodcut",
+        "ProductCode" : "T-1501"
+      },
+      "Pricebook2" : {
+        "Id" : "197203",
+        "Name" : "Portal Pricebook"
+     }
+  } , {
+      "Product2Id" : "109343",
+      "UnitPrice" : 650.00,
+      "Pricebook2Id" : "109232",
+      "Id" : "231223",
+      "Product2" : {
+        "Id" : "120934",
+        "Name" : "Transportation and Disposal",
+        "Description" : "Used for Transaction and Disposal",
+        "ProductCode" : "ESOL-0005"
+      },
+      "Pricebook2" : {
+        "Id" : "093434",
+        "Name" : "Portal Pricebook"
+     }
+  },{
+      "Product2Id" : "190343",
+      "UnitPrice" : 850.00,
+      "Pricebook2Id" : "124953",
+      "Id" : "90238",
+      "Product2" : {
+        "Id" : "109234",
+        "Name" : "Retail Hazardous Waste",
+        "Description" : "Used for Wastage",
+        "ProductCode" : "A-0005"
+      },
+      "Pricebook2" : {
+        "Id" : "130123",
+        "Name" : "Portal Pricebook"
+     }
+  },{
+      "Product2Id" : "289348",
+      "UnitPrice" : 850.00,
+      "Pricebook2Id" : "1298034",
+      "Id" : "902311",
+      "Product2" : {
+        "Id" : "8001233",
+        "Name" : "Remediation and Field Services",
+        "Description" : "Remediation and Field Services",
+        "ProductCode" : "ESOL-0012"
+      },
+      "Pricebook2" : {
+        "Id" : "130123",
+        "Name" : "Portal Pricebook"
+     }
+  },{
+      "Product2Id" : "102328",
+      "UnitPrice" : 400.00,
+      "Pricebook2Id" : "102357",
+      "Id" : "024734",
+      "Product2" : {
+        "Id" : "349633",
+        "Name" : "Gloves",
+        "Description" : "Gloves - Protection",
+        "ProductCode" : "A-0012"
+      },
+      "Pricebook2" : {
+        "Id" : "130123",
+        "Name" : "Portal Pricebook"
+     }
+  }                     
 
 
 ] 
