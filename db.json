@@ -35,7 +35,7 @@
       "Product2" : {
         "Id" : "12456",
         "Name" : "Biohazard Bags",
-        "Description" : "Protect your team from infectious waste with our easy-to-use red biohazard bags",
+        "Description" : "Protect your team from infectious waste",
         "ProductCode" : "A-101"
       },
       "Pricebook2" : {
