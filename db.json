@@ -207,7 +207,54 @@
         "Id" : "130123",
         "Name" : "Portal Pricebook"
      }
-  }                     
+  },{
+      "Product2Id" : "237890",
+      "UnitPrice" : 200.00,
+      "Pricebook2Id" : "223470",
+      "Id" : "123974",
+      "Product2" : {
+        "Id" : "349633",
+        "Name" : "SHARPS Container",
+        "Description" : "Container - Protection",
+        "ProductCode" : "A-00712"
+      },
+      "Pricebook2" : {
+        "Id" : "203495",
+        "Name" : "Portal Pricebook"
+     }
+  },{
+      "Product2Id" : "23945",
+      "UnitPrice" : 200.00,
+      "Pricebook2Id" : "34302",
+      "Id" : "094323",
+      "Product2" : {
+        "Id" : "0239345",
+        "Name" : "Totes",
+        "Description" : "Totes",
+        "ProductCode" : "T-00453"
+      },
+      "Pricebook2" : {
+        "Id" : "0934392",
+        "Name" : "Portal Pricebook"
+     }
+  },{
+      "Product2Id" : "029213",
+      "UnitPrice" : 350.00,
+      "Pricebook2Id" : "023932",
+      "Id" : "902348",
+      "Product2" : {
+        "Id" : "039355",
+        "Name" : "Clear Trash Bags",
+        "Description" : "Clear Trash Bags",
+        "ProductCode" : "B-13505"
+      },
+      "Pricebook2" : {
+        "Id" : "901234",
+        "Name" : "Portal Pricebook"
+     }
+  }
+  
+  
 
 
 ] 
