@@ -11,6 +11,42 @@
   "profile": {
     "name": "shobiz"
   },
+    "ProductDetails1":[
+  {
+      "Product2Id" : "123445",
+      "UnitPrice" : 100.00,
+      "Pricebook2Id" : "2333333",
+      "Id" : "23555",
+	  "img": "https://cdn3.iconfinder.com/data/icons/diagram_v2/PNG/96x96/diagram_v2-30.png",
+      "Product2" :{
+        "Id" : "234566",
+        "Name" : "Ancillary Products",
+        "Description" : "Ancillary Products",
+        "ProductCode" : "S - 1098"
+      },
+      "Pricebook2" : {
+        "Id" : "56576777",
+        "Name" : "Portal Pricebook"
+      }
+    }, {
+      "Product2Id" : "1566777",
+      "UnitPrice" : 50.00,
+      "Pricebook2Id" : "67778",
+      "Id" : "22332",
+	  "img": "https://cdn3.iconfinder.com/data/icons/diagram_v2/PNG/96x96/diagram_v2-30.png",
+      "Product2" : {
+        "Id" : "12456",
+        "Name" : "Biohazard Bags",
+        "Description" : "Protect your team from infectious waste",
+        "ProductCode" : "A-101"
+      },
+      "Pricebook2" : {
+        "Id" : "123444",
+        "Name" : "Portal Pricebook"
+     }
+  }
+
+] ,
   "ProductDetails":[
   {
       "Product2Id" : "123445",
