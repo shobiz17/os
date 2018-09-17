@@ -11,6 +11,16 @@
   "profile": {
     "name": "shobiz"
   },
+  "Countries": [
+	  {
+		"country": "Afghanistan",
+		"states": ["Badakhshan", "Badghis", "Baghlan", "Balkh", "Bamian", "Daykondi"]
+	  },
+	  {
+		"country": "Albania",
+		"states": ["Berat", "Dibres", "Durres", "Elbasan", "Fier", "Gjirokastre", "Korce", "Kukes"]
+	  }
+  ],
     "ProductInfo":[
   {
       "Product2Id" : "123445",
