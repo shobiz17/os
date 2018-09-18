@@ -11,15 +11,6 @@
   "profile": {
     "name": "shobiz"
   },
- "Countries": [
-	  {
-		"country": "Afghanistan"
-	  },
-	  {
-		"country": "Albania"
-	  }
-  ],
- 
     "ProductInfo":[
   {
       "Product2Id" : "123445",
