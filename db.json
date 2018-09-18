@@ -13,12 +13,12 @@
   },
   "Countries": [
 	  {
-		"country": "Afghanistan",
-		"states": ["Badakhshan", "Badghis", "Baghlan", "Balkh", "Bamian", "Daykondi"]
+		"country": "Afghanistan"
+		
 	  },
 	  {
-		"country": "Albania",
-		"states": ["Berat", "Dibres", "Durres", "Elbasan", "Fier", "Gjirokastre", "Korce", "Kukes"]
+		"country": "Albania"
+		
 	  }
   ],
     "ProductInfo":[
